@@ -2470,13 +2470,13 @@ p {
         padding-top: 0;
     }
     #intro {
-        background: url("images/overlay-copia2.png"), url("../../images/bg-floral-mv.png");
+        background: url("images/overlay-copia2.png"), url("../../assets/images/bg-floral-mv.png");
     }
 }
 
 @media screen and (min-width: 737px) {
     #intro {
-        background: url("images/overlay-copia2.png"), url("../../images/bg-floral.png");
+        background: url("images/overlay-copia2.png"), url("../../assets/images/bg-floral.png");
     }
     .main>.content br {
         display: none;
