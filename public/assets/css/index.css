@@ -1,6 +1,6 @@
 #titulo, #titulox {
-    font-family: 'Great Vibes', cursiva;
-    font-size: 3em;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
     color: #362536;
 }
 
@@ -108,7 +108,7 @@
     text-decoration: none;
     border-radius: 5px;
     border: solid 0px #c4c4c4;
-    margin-bottom: 70px;
+    margin-bottom: 10px;
     font-size: 14px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -157,7 +157,7 @@
         font-family: 'Raleway', sans-serif; font-weight: 400; text-align: center; color: #362536;
     }
     #lugar{
-        font-family: 'Great Vibes', cursiva; font-weight: 400; font-size: 2.5em; text-align: center; color: #362536;
+        font-family: "Dancing Script", cursive; font-weight: 400; font-style: normal; font-size: 2.5em; text-align: center; color: #362536;
     }
     #dresscode{
         margin-bottom: 5vh !important;

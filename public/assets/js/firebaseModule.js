@@ -9,12 +9,12 @@ import { getFirestore, doc, addDoc, getDoc, collection, getDocs } from 'https://
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCTRHMSngXyt-PYUIV3kdGtrJOel5SWPf4",
-    authDomain: "invitacionjb.firebaseapp.com",
-    projectId: "invitacionjb",
-    storageBucket: "invitacionjb.appspot.com",
-    messagingSenderId: "877651846620",
-    appId: "1:877651846620:web:a9ba35cc7f9a08d0909b19",
+    apiKey: "AIzaSyDJJUh1Nf2rIAEr5q-IlRSjw-Us75siEqI",
+    authDomain: "invitacionboda-ij.firebaseapp.com",
+    projectId: "invitacionboda-ij",
+    storageBucket: "invitacionboda-ij.firebasestorage.app",
+    messagingSenderId: "752670098095",
+    appId: "1:752670098095:web:1c114adc165e57cda48a5a",
     measurementId: "G-MVSHF14Y1W"
 };
 const firebaseApp = initializeApp(firebaseConfig);
